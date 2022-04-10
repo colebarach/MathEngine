@@ -7,7 +7,7 @@ function setup() {
   canvas = new Canvas(-Theme.defaultScale,            Theme.defaultScale,
                       -Theme.defaultScale*aspectRatio,Theme.defaultScale*aspectRatio);
   
-  equation = new Equation('sin',2);
+  equation = new Equation('sin');
 }
 function draw() {
   Theme.apply();
