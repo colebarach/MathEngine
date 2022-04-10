@@ -1,6 +1,6 @@
 var canvas;
 var equation;
-
+ 
 function setup() {
   createCanvas(800,800);
   aspectRatio = (height/width);
