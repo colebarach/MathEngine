@@ -3,4 +3,4 @@
 ## Demo
 Online demo through github pages
 https://colebarach.github.io/MathEngine/
-- Demo shows various interpolations between cartesian and polar coordinates over time
+- Demo shows linear interpolation between cartesian and polar graphs of sine function over time
